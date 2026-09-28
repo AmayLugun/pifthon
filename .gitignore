@@ -1,0 +1,32 @@
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Distribution / packaging files
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+#Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+#Virtual Environments
+venv/
+.venv/
+env
+.env/
+ENV/
+
+#Environment variables
+.env
+
+#OS files (macOS)
+.DS_Store
+._*
